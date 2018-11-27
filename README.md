@@ -1,2 +1,2 @@
-# bootstrap4-active-nav-dotnetcore
-Simple way to place that active class into the nav for Bootstrap 4 in dot net core
+# Bootstrap 4 Active Nav
+Simple way to place the "active" class into the current nav item in Bootstrap 4 using dot net core. 
